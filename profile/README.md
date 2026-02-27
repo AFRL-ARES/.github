@@ -1,4 +1,4 @@
-# AFRL-ARES: Autonomous Research System
+# AFRL-ARES: A Software For Autonomous Research
 
 Welcome to the official GitHub home of the **Autonomous Research System (ARES)**, developed at the Air Force Research Laboratory (AFRL). Our mission is to accelerate the pace of scientific discovery by providing an open-source, modular, and accessible platform for closed-loop autonomous experimentation.
 

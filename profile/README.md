@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub home of the **Autonomous Research System (ARES)**, developed at the Air Force Research Laboratory (AFRL). Our mission is to accelerate the pace of scientific discovery by providing an open-source, modular, and accessible platform for closed-loop autonomous experimentation.
 
+For in-depth documentation on ARES, Educational ARES (ATHENA), PyAres or the ARES Launcher, please visit https://afrl-ares.github.io/.
+
 ## Our Mission
 The current pace of research is often limited by manual processes. ARES transforms traditional laboratories into **autonomous research robots** that design, execute, and analyze experiments using artificial intelligence. By closing the loop between planning and execution, ARES allows scientists to focus on high-level goals while the system handles the iterative discovery process.
 

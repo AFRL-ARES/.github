@@ -32,10 +32,7 @@ ARES is built with a "Plugin-First" philosophy:
 - **Scalability:** Leveraging gRPC for high-performance communication across different hardware and software environments.
 
 ## Contributing
-We are committed to building an open community of researchers and developers. 
-- **For Scientists:** Use PyAres to integrate your existing Python-based experimental setups.
-- **For Developers:** Help us improve the core ARES OS or expand our library of hardware plugins.
-- **Get Started:** For your convenience, we've created a centralized location for out documentation that you can find at https://afrl-ares.github.io. Check out the documentation in each repository for setup instructions and developer guides.
+Interested in contributing to the ARES ecosystem? Whether you're creating plugins for devices, new planners and analyzers, or looking to contribute to code in our core libraries, we want your help! Check out https://afrl-ares.github.io/docs/ares/contributing to learn more about how to contribute to our open source community.
 
 ## Contact
 For potential collaborations, please reach out to Dr. Benji Maruyama at:

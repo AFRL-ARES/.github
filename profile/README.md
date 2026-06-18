@@ -17,7 +17,7 @@ The core orchestration engine. ARES OS 2.0 is a robust software suite written in
 The management hub for the ARES environment. The Launcher is a desktop application designed to simplify the installation, setup, and execution of the ARES suite. It orchestrates the lifecycle of essential services. This includes the ARES Core, the web UI, and the database ensuring a seamless "one-click" experience for researchers.
 
 ### [PyAres](https://github.com/AFRL-ARES/PyAres)
-The official Python library for ARES. We believe science should be accessible to those who know it best. PyAres is a high-level wrapper for the **gRPC/Protobuf API**, allowing scientists and researchers to write planners, analyzers, and device drivers in native Python without needing to manage the underlying C# architecture. If you're looking for some examples of PyAres implementations, check out our [templates repo](https://github.com/AFRL-ARES/pyares-templates). 
+The official Python library for ARES. We believe science should be accessible to those who know it best. PyAres is a high-level wrapper for the **gRPC/Protobuf API**, allowing scientists and researchers to write planners, analyzers, and device drivers in native Python without needing to manage the underlying C# architecture. If you're looking for some examples of PyAres implementations, check out our [examples directory](https://github.com/AFRL-ARES/pyares-directory). 
 
 ### [Educational-ARES](https://github.com/AFRL-ARES/Educational-ARES)
 A specialized version of the ARES suite designed for classroom and low-cost environments. It supports autonomous 3D printing (specifically built for the Prusa MK4S) to teach the next generation of scientists the principles of autonomous research.

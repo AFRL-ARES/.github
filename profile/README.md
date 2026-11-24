@@ -11,7 +11,7 @@ The current pace of research is often limited by manual processes. ARES transfor
 Our software suite is built on modern engineering principles, designed to be flexible enough for complex research and simple enough for educational use.
 
 ### [ARES OS](https://github.com/AFRL-ARES/ARES)
-The core orchestration engine. ARES OS 2.0 is a robust software suite written in **C#/.NET** with a modern **Blazor** frontend. It provides the structured interface required for modular laboratory control, handling everything from device registration to complex workflow execution. ARES is published in the Journal of Open Source Software (JOSS), checkout our publication below.
+The core orchestration engine. ARES OS 2.0 is a robust software suite written in **C#/.NET** with a modern **Blazor** frontend. It provides the structured interface required for modular laboratory control, handling everything from device registration to complex workflow execution. ARES is published in the Journal of Open Source Software (JOSS), check out our publication below.
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.10461/status.svg)](https://doi.org/10.21105/joss.10461)
 
